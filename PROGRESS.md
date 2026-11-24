@@ -5,7 +5,7 @@
 ## Checklist Tuần 0
 - [ ] Xác định bài toán thực tế & ngành mục tiêu (ghi chép vào `docs/discovery.md`).
 - [ ] Tìm hiểu cơ chế Webhook của cổng thanh toán (SePay/VietQR sandbox).
-- [ ] Khởi tạo Git repo, cấu hình `.gitignore`, `README.md`.
+- [x] Khởi tạo Git repo, cấu hình `.gitignore`, `README.md`. (Đã đẩy lên remote `main`)
 - [ ] Dựng khung solution Clean Architecture theo chuẩn .NET:
   - `PayFlow.Domain`
   - `PayFlow.Application`
